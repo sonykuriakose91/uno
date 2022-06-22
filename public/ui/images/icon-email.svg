@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.03" height="11.708" viewBox="0 0 17.03 11.708">
+  <g id="icon-email" transform="translate(0 -80)">
+    <g id="Group_86" data-name="Group 86" transform="translate(11.289 82.159)">
+      <g id="Group_85" data-name="Group 85">
+        <path id="Path_113" data-name="Path 113" d="M339.392,148.679l5.741,3.63V144.9Z" transform="translate(-339.392 -144.896)" fill="#55aa47"/>
+      </g>
+    </g>
+    <g id="Group_88" data-name="Group 88" transform="translate(0 82.159)">
+      <g id="Group_87" data-name="Group 87">
+        <path id="Path_114" data-name="Path 114" d="M0,144.9v7.412l5.741-3.63Z" transform="translate(0 -144.896)" fill="#55aa47"/>
+      </g>
+    </g>
+    <g id="Group_90" data-name="Group 90" transform="translate(0.032 80)">
+      <g id="Group_89" data-name="Group 89">
+        <path id="Path_115" data-name="Path 115" d="M16.894,80H1.992a1.051,1.051,0,0,0-1.032.906l8.483,5.589,8.483-5.589A1.051,1.051,0,0,0,16.894,80Z" transform="translate(-0.96 -80)" fill="#55aa47"/>
+      </g>
+    </g>
+    <g id="Group_92" data-name="Group 92" transform="translate(0.034 86.583)">
+      <g id="Group_91" data-name="Group 91">
+        <path id="Path_116" data-name="Path 116" d="M11.3,277.921l-1.506.992a.535.535,0,0,1-.585,0l-1.506-.993-6.682,4.227a1.049,1.049,0,0,0,1.03.9h14.9a1.049,1.049,0,0,0,1.03-.9Z" transform="translate(-1.024 -277.92)" fill="#55aa47"/>
+      </g>
+    </g>
+  </g>
+</svg>
